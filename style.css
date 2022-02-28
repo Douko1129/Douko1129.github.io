@@ -1,6 +1,6 @@
 body{
   margin-bottom: 150px;
-  background-image: url("Fondo.png") cover no-repeat fixed;
+  background-image: url("./Fondo.png") cover no-repeat fixed;
 }
 
 #txtPalabras{
