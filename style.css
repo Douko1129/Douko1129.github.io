@@ -1,0 +1,21 @@
+body{
+  margin-bottom: 150px;
+  background: url(Fondo.png) center center cover no-repeat fixed;
+}
+
+#txtPalabras{
+  height: 200px;
+}
+
+#ondas{
+  overflow: hidden;
+}
+
+#logo{
+  height: 20em;
+}
+
+.responsive {
+  max-width: 90%;
+  height: auto;
+}
