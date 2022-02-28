@@ -1,5 +1,8 @@
 body{
   margin-bottom: 150px;
+}
+
+.backImg{
   background-image: url("./Fondo.png") cover no-repeat fixed;
 }
 
