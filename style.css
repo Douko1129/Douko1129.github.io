@@ -3,7 +3,7 @@ body{
 }
 
 .backImg{
-  background-image: url("./Fondo.png") cover no-repeat fixed;
+  background-image: url('Fondo.png') cover fixed;
 }
 
 #txtPalabras{
