@@ -2,8 +2,18 @@ body{
   margin-bottom: 150px;
 }
 
-.backImg{
+/*.backImg{
   background-image: url('https://douko1129.github.io/Fondo.png') cover fixed;
+}*/
+
+#fondo{
+ height: 100%;
+ width: 100%;
+ z-index: 1;
+}
+
+#logo{
+ z-index: 2;
 }
 
 #txtPalabras{
