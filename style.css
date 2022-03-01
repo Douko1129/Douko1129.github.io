@@ -3,7 +3,7 @@ body{
 }
 
 .backImg{
-  background-image: url('Fondo.png') cover fixed;
+  background-image: url('https://douko1129.github.io/Fondo.png') cover fixed;
 }
 
 #txtPalabras{
