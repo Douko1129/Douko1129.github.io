@@ -2,6 +2,15 @@ body{
   margin-bottom: 150px;
 }
 
+@font-face {
+    font-family: toyFont;
+    src: url(GillSansUltraBold.ttf);
+}
+
+.fuente{
+ font-family: toyFont;
+ color: black;
+}
 /*.backImg{
   background-image: url('https://douko1129.github.io/Fondo.png') cover fixed;
 }*/
