@@ -1,5 +1,6 @@
 body{
-  margin-bottom: 150px;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
 }
 
 @font-face {
@@ -11,9 +12,14 @@ body{
  font-family: toyFont;
  color: black;
 }
-/*.backImg{
-  background-image: url('https://douko1129.github.io/Fondo.png') cover fixed;
-}*/
+
+.funteJustificar{
+ text-align: center;
+}
+
+.backImg{
+  background-image: url(fondo.jpg) cover fixed;
+}
 
 #fondo{
  height: 100%;
